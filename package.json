@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ganache-cli": "^6.3.0"
+    "fs-extra": "^7.0.1",
+    "ganache-cli": "^6.3.0",
+    "solc": "^0.5.4"
   }
 }
